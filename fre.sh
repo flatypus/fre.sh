@@ -41,7 +41,7 @@ sudo rm -f /usr/share/themes/candy-icons.zip
 # install tweaks
 
 sudo add-apt-repository universe
-sudo apt install gnome-tweak-tool
+sudo apt install gnome-tweaks
 
 # install node
 
