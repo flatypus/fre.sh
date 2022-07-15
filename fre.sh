@@ -50,7 +50,7 @@ sudo apt install npm
 
 # install protonvpn
 
-https://protonvpn.com/download/protonvpn-stable-release_1.0.1-1_all.deb
-dpkg -i protonvpn-stable-release_1.0.1-1_all.deb
+sudo wget https://protonvpn.com/download/protonvpn-stable-release_1.0.1-1_all.deb
+sudo dpkg -i protonvpn-stable-release_1.0.1-1_all.deb
 sudo apt-get update
 sudo apt-get install protonvpn
