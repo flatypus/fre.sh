@@ -33,10 +33,10 @@ sudo apt-get purge thunderbird
 
 # getting user theme
 
-sudo wget -P /usr/share/themes https://cdn.discordapp.com/attachments/971923051258208327/971926783161171988/candy-icons.zip
+sudo wget -P /usr/share/icons https://cdn.discordapp.com/attachments/971923051258208327/971926783161171988/candy-icons.zip
 sudo apt-get install unzip
-sudo unzip /usr/share/themes/candy-icons.zip
-sudo rm -f /usr/share/themes/candy-icons.zip
+sudo unzip /usr/share/icons/candy-icons.zip
+sudo rm -f /usr/share/icons/candy-icons.zip
 
 # install tweaks
 
